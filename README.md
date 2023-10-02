@@ -1,2 +1,2 @@
-# sign-language-detection
+# multiplication-game-ai
  
