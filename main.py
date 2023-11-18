@@ -37,7 +37,7 @@ def main():
             
             
                  
-        cv2.imshow('frame',frame)
+        cv2.imshow('Multiplication Game',frame)
         if cv2.waitKey(1) == ord('q'):
             break
    
